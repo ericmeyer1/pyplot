@@ -17,7 +17,7 @@ Each question is worth two points:
 
 ## Key learnings
 
-1. How to setup figures to be plotted on
+1. How to setup figures in matplotlib to be plotted on
 2. How to filter through a dictionary comprehension for certain characters
 3. How to adjust properties such as color, marker, size, linestyle, etc. on either scatter or line plots
 4. How to adjust readablity of charts via log and grid additions
