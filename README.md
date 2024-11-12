@@ -26,8 +26,8 @@ It is recommended to setup and activate a virtual environment for your project b
 3. How to adjust properties such as color, marker, size, linestyle, etc. on either scatter or line plots
 4. How to adjust readablity of charts via log and grid additions
 
-## Want to chat about this project or data analytics?
-Reach me on LinkedIn here: https://www.linkedin.com/in/ericmeyer123/
+## Interested in chatting about this project, data analytics, or just staying connected?
+Connect with me on LinkedIn: [Eric Meyer](https://www.linkedin.com/in/ericmeyer123/)
 
 
 
