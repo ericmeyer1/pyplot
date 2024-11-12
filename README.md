@@ -16,7 +16,7 @@ In this project, we use Python's Matplotlib library and pyplot module to analyze
 - __pyplot:__ Used for plotting data on figures in order to visualize data findings.
 
 ## Needed Pip Install Commands
-It is recommended to setup and activate a virtual environment for you project before installing all your needed libraries. See how to setup your virtual environment here: https://code.visualstudio.com/docs/python/python-tutorial#_create-a-virtual-environment
+It is recommended to setup and activate a virtual environment for your project before installing all your needed libraries. See how to setup your virtual environment here: https://code.visualstudio.com/docs/python/python-tutorial#_create-a-virtual-environment
 - python -m pip install -U matplotlib
 - pip install numpy
 
