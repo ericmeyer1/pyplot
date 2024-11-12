@@ -20,7 +20,7 @@ It is recommended to setup and activate a virtual environment for your project b
 - python -m pip install -U matplotlib
 - pip install numpy
 
-## Key learnings
+## Key Learnings
 1. How to setup figures in matplotlib.pyplot to be plotted on
 2. How to filter through a dictionary comprehension for certain characters
 3. How to adjust properties such as color, marker, size, linestyle, etc. on either scatter or line plots
