@@ -1,7 +1,7 @@
 # Web Mining & NLP - Module 3: Applying Matplotlib and pyplot
 
 ## Summary
-In this project, we use Python's Matplotlib library and pyplot module to visualize data on both line and bar charts.
+In this project, we use Python's Matplotlib library and pyplot module to visualize data on both bar, scatter, and line charts.
 
 ## Skills Used
 - VS Code
